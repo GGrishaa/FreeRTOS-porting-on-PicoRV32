@@ -14,11 +14,9 @@
 Для macOS riscv-tools, icarus-verilog, surfer/gtkwave, make
 
 ### Сборка и запуск симуляции:
-git clone https://github.com/GGrishaa/2258.git
+git clone https://github.com/GGrishaa/FreeRTOS-porting-on-PicoRV32.git
 
-cd 2258
-
-git checkout freertos-port
+cd FreeRTOS-porting-on-PicoRV32
 
 cd firmware
 
